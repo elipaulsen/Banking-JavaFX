@@ -18,7 +18,7 @@ The Cashier class handles:
 - exchange rate
 - withdrawing and making change
 
-![UML](../umls/bank.png)
+![image](https://github.com/elipaulsen/Banking-JavaFX/assets/111461613/99c958ce-81bd-4284-9225-5380cf7c0cfb)
 
 
 ### User Documentation
