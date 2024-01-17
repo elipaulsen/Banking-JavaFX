@@ -1,4 +1,4 @@
-# Exchange Computation GUI
+# Banking Exchange JavaFX GUI App
 a java FX program that helps a cashier keep track of customer balance and exchange money between US dollars and SWD dollars. The cashier will have the option to specify the exchange rate between currencies, initialize the customer balance (in US dollars), withdraw some SWD dollars amount, and close the account.
 #
 ### Developer Documentation
